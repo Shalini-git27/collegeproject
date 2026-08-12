@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    text-align: center;
+}
+
+header {
+    padding: 10px;
+}
+
+h1 {
+    color: rgb(159, 236, 58);
+}
+
+nav {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+}
